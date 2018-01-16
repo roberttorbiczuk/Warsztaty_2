@@ -1,2 +1,3 @@
-# Warsztaty_2
-Warsztaty z Active Record
+Warsztaty z coderslab, niestety niedokonczony.
+
+Skoncze po napisaniu aplikacji todolist, django mnie troche wciagnelo :)
